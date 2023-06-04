@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "verici",
+			"path": "../../verici"
+		},
+		{
+			"name": "motorKontrol",
+			"path": "../../motorKontrol"
+		}
+	],
+	"settings": {}
+}
