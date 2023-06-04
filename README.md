@@ -4,4 +4,6 @@
 
 
 Detaylı bilgi için: 
-[QTrainer Model Uçak Prototipinin Gerçeklestirilmesi](https://github.com/oalikorkmaz/rcucak/files/11645276/QTrainer.Model.Ucak.Prototipinin.Gerceklestirilmesi)
+[QTrainer Model Uçak Prototipinin Gerçeklestirilmesi.pdf](https://github.com/oalikorkmaz/rcucak/files/11645276/QTrainer.Model.Ucak.Prototipinin.Gerceklestirilmesi)
+
+[Youtube Videosu](https://youtu.be/Ga4y0oPVHHE)
