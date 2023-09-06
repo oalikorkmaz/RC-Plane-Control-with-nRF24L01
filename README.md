@@ -20,6 +20,6 @@
 
 
 Detaylı bilgi için: 
-[QTrainer Model Uçak Prototipinin Gerçeklestirilmesi.pdf](https://github.com/oalikorkmaz/rcucak/blob/main/QTrainer%20Model%20U%C3%A7ak%20Prototipinin%20Ger%C3%A7ekle%C2%B8stirilmesi.pdf)
+[QTrainer Model Uçak Prototipinin Gerçeklestirilmesi.pdf](https://github.com/oalikorkmaz/rcucak/blob/main/QTrainer%20Model%20U%C3%A7ak%20Prototipinin%20Ger%C3%A7eklestirilmesi.pdf)
 
 [Youtube Videosu](https://youtu.be/Ga4y0oPVHHE)
